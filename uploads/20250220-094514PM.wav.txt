@@ -1,0 +1,6 @@
+hey how are you
+
+Sentiment Analysis:
+Score: 0.017000000923871994
+Magnitude: 0.039000000804662704
+Overall Sentiment: NEUTRAL
